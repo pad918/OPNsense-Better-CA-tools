@@ -5,8 +5,8 @@ namespace OPNsense\BetterCA\Api;
 use OPNsense\Base\ApiMutableModelControllerBase;
 
 /**
- * Class SettingsController Handles settings related API actions for the HelloWorld module
- * @package OPNsense\Helloworld
+ * Class SettingsController Handles settings related API actions
+ * @package OPNsense\BetterCA
  */
 class SettingsController extends ApiMutableModelControllerBase
 {

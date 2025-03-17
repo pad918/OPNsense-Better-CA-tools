@@ -1,7 +1,3 @@
-The goal of the "Hello world" plugin is to showcase the capabilities
-of the OPNsense plugin framework.  It will control a program on the
-system named "testConnection.py". It will send an email using plain
-SMTP and will respond with a JSON message about the result of the
-attempt.
+The goal of CA tools is to add more functionality to the CA built into OPNsense.
 
-WWW: https://docs.opnsense.org/development/examples/helloworld.html
+WWW: https://github.com/pad918/OPNsense-Better-CA-tools
