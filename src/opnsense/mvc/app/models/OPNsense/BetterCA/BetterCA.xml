@@ -1,0 +1,15 @@
+<model>
+    <mount>//OPNsense/betterca</mount>
+    <description>
+        A plugin that adds some basic features that are missing
+        in OPNsense's internal CA.
+    </description>
+    <items>
+        <general>
+            <CrlEnabled type="BooleanField">
+                <default>0</default>
+                <Required>Y</Required>
+            </CrlEnabled>
+        </general>
+    </items>
+</model>

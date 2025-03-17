@@ -1,0 +1,5 @@
+<menu>
+    <Lobby>
+        <HelloWorld VisibleName="Better CA" cssClass="fa fa-comment-o fa-fw" url="/ui/betterca"/>
+    </Lobby>
+</menu>
