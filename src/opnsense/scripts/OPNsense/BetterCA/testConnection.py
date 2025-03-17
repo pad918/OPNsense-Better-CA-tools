@@ -6,7 +6,7 @@ import smtplib
 import json
 from configparser import ConfigParser
 
-# set default timeout to 2 seconds
+# TO GET CRL: http://192.168.0.53/api/trust/crl/get/67d8940cc4e6e
 socket.setdefaulttimeout(2)
 
 hello_world_config = '/usr/local/etc/helloworld/helloworld.conf'

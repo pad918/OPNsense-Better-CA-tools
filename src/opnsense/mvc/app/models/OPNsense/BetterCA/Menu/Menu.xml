@@ -1,5 +1,7 @@
 <menu>
-    <Lobby>
-        <BetterCA VisibleName="Better CA" cssClass="fa fa-comment-o fa-fw" url="/ui/betterca"/>
-    </Lobby>
+    <Services>
+        <BetterCATools cssClass="fa fa-address-book-o fa-fw">
+            <BetterCA VisibleName="Better CA" cssClass="fa fa-comment-o fa-fw" url="/ui/betterca"/>
+        </BetterCATools>
+    </Services>
 </menu>
