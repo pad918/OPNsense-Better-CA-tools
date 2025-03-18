@@ -3,6 +3,7 @@
         <BetterCA cssClass="fa fa-address-book-o fa-fw">
             <General VisibleName="General settins" cssClass="fa fa-comment-o fa-fw" url="/ui/betterca/general"/>
             <OCSP VisibleName="OCSP settings" cssClass="fa fa-comment-o fa-fw" url="/ui/betterca/OCSP"/>
+            <Registration VisibleName="Registration" cssClass="fa fa-comment-o fa-fw" url="/ui/betterca/registration"/>
         </BetterCA>
     </Services>
 </menu>

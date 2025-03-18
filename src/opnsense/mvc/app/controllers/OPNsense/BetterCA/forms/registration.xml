@@ -1,0 +1,14 @@
+<form>
+    <field>
+        <id>betterca.general.Secret</id>
+        <label>Secret</label>
+        <type>text</type>
+        <help>The secret to use to authenticate registration requests</help>
+    </field>
+    <field>
+        <id>betterca.general.UseSecret</id>
+        <label>Enable secret</label>
+        <type>checkbox</type>
+        <help>Use secret for authentication</help>
+    </field>
+</form>

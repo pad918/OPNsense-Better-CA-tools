@@ -1,0 +1,18 @@
+<model>
+    <mount>//OPNsense/betterca/registration</mount>
+    <description>
+        registration settings
+    </description>
+    <items>
+        <general>
+            <Secret type="TextField">
+                <default>secret</default>
+                <Required>Y</Required>
+            </Secret>
+            <UseSecret type="BooleanField">
+                <default>0</default>
+                <Required>Y</Required>
+            </UseSecret>
+        </general>
+    </items>
+</model>
