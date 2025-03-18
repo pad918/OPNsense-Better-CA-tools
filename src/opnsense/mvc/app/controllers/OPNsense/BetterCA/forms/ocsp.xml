@@ -1,5 +1,11 @@
 <form>
     <field>
+        <id>betterca.general.OCSP_PORT</id>
+        <label>server port</label>
+        <type>text</type>
+        <help>Set the port used by the OCSP responder (server)</help>
+    </field>
+    <field>
         <id>betterca.general.OCSPEnabled</id>
         <label>enabled</label>
         <type>checkbox</type>
