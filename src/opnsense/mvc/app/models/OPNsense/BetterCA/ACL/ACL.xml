@@ -1,9 +1,9 @@
 <acl>
-    <page-user-betterca>
-        <name>Lobby: Hello World!</name>
+    <page-services-betterca>
+        <name>Services: BetterCA</name>
         <patterns>
             <pattern>ui/betterca/*</pattern>
             <pattern>api/betterca/*</pattern>
         </patterns>
-    </page-user-betterca>
+    </page-services-betterca>
 </acl>
