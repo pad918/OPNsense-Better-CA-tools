@@ -1,13 +1,12 @@
 <model>
     <mount>//OPNsense/betterca/ocsp</mount>
     <description>
-        A plugin that adds some basic features that are missing
-        in OPNsense's internal CA.
+        OCSP settings
     </description>
     <items>
         <general>
             <OCSPEnabled type="BooleanField">
-                <default>0</default>
+                <default>1</default>
                 <Required>Y</Required>
             </OCSPEnabled>
         </general>

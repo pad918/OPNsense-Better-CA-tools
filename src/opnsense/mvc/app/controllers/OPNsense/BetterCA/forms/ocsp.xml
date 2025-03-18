@@ -1,8 +1,8 @@
 <form>
     <field>
-        <id>betterca.crlenabled</id>
+        <id>betterca.general.OCSPEnabled</id>
         <label>enabled</label>
         <type>checkbox</type>
-        <help>Enable the CRL Distribution point</help>
+        <help>Enable the OCSP server</help>
     </field>
 </form>
