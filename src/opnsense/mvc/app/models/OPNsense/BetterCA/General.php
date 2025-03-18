@@ -4,6 +4,6 @@ namespace OPNsense\BetterCA;
 
 use OPNsense\Base\BaseModel;
 
-class BetterCA extends BaseModel
+class General extends BaseModel
 {
 }
